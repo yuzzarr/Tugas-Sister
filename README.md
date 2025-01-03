@@ -8,7 +8,7 @@ Program Studi Informatika
 - Rizki Dwi Rahmawan (M0521066)
 
 ## Prerequisite
-- Python 3.10.10 and Tesseract-OCR installed
+- Python 3.10.10
 > Download Python 3.10.10 [Here](https://www.python.org/downloads/release/python-31010/)
 >
 - python path is declared in system environment
