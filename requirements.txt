@@ -1,0 +1,12 @@
+certifi==2024.12.14
+charset-normalizer==3.4.1
+et_xmlfile==2.0.0
+idna==3.10
+lxml==5.3.0
+openpyxl==3.1.5
+pip==22.3.1 
+pytz==2024.2
+requests==2.32.3
+setuptools==65.5.0
+spyne==2.14.0
+urllib3==2.3.0
