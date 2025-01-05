@@ -18,8 +18,12 @@ Program Studi Informatika
 >
 >"D:\Program Files\Python310\" & "C:\Program Files\Tesseract-OCR" 
 
+## Installation REST API
 
-
+Run REST Server
+```bash
+  py app.py
+```
 
 
 ## Installation SOAP API
